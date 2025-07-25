@@ -1,0 +1,10 @@
+"""
+For this we use Broadcasting
+"""
+import numpy as np
+prices=np.array([100,200,300])
+discount = 10
+
+final_price = prices - (prices * discount//100)
+print(final_price)
+# No loop using very fast and efficient for big data set

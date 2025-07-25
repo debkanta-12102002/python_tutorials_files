@@ -1,0 +1,11 @@
+in Array -> properties
+        -> calculations
+
+u can know shape ,size & data type
+ functions :->
+.size
+.shape
+.dtype
+.ndim = tell about the dimention od array (1d,2d,3d)
+.dtype= datatype
+.astype= change data type

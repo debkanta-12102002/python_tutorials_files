@@ -1,0 +1,12 @@
+In a entire array apply operation at a time in every element is Vectorization 
+
+Loops in python is very slow to do that speacially in big data set
+
+
+Broadcasting -> 1. it expand smalller array to larger array
+                2. faster then Loops
+                3. 1D to 2D operation 
+
+vectorization -> 1. operation entire array very large
+                 2. 100x then Loops
+                 3. used in matrix operation

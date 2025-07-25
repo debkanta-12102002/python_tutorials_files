@@ -1,0 +1,7 @@
+incorrect or missing number dealing & handling is much important
+
+some build-in functions are:-
+
+np.isnan()-> detect missing values [NAN = not a number]
+np.nan_to_num()->those missing values convert to another number
+np.isinf()-> detect infinite values

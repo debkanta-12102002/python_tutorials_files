@@ -1,0 +1,5 @@
+In Numpy broadcasting in different shapes
+
+1. Matching Dimention -> two dimention array are acting same
+2. Expanding single element -> one array [1,2,3] another element 10 so that add all elements
+3. Incampatable shape -> one array [1,2,3] another [1,2] not compatable
